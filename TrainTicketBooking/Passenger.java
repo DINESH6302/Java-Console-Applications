@@ -1,4 +1,4 @@
-package App.TicketBooking;
+package App.TrainTicketBooking;
 
 public class Passenger {
     String name;
