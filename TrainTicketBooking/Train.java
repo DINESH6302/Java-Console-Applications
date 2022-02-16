@@ -1,4 +1,4 @@
-package App.TicketBooking;
+package App.TrainTicketBooking;
 
 import java.util.*;
 
